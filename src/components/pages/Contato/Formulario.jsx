@@ -24,7 +24,7 @@ const Formulario = () => {
           <textarea name="mensagem" id="mensagem" cols="30" rows="10"></textarea>
         </div>
 
-        <Botao texto='Enviar'/>
+        <Botao texto='Enviar' className='btnForm'/>
       </FormularioStyle>
     </div>
   )

@@ -2,8 +2,8 @@ import { Check, Pencil, Trash, X } from "@phosphor-icons/react";
 import { TarefaStyle } from "./Tarefa.style";
 
 //Componentes
-import Input from "../common/Input/Input"
-import Botao from "../pages/TarefasContent/Botao/Botao";
+import Input from "../../../common/Input/Input";
+import Botao from "../Botao/Botao";
 
 const Tarefa = ({ item, toggleStatusTarefa, mudarTarefa, edicaoLigada, setMudarTarefa, editarTarefa, excluirTarefa }) => {
   return (

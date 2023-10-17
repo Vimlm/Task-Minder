@@ -1,4 +1,4 @@
-import { BotaoStyle } from "./Botao.style"
+import { BotaoStyle } from "./botao.style"
 
 const Botao = ({callBack, texto}) => {
   return (

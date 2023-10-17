@@ -2,6 +2,8 @@
 
 Task-Minder é uma aplicação de lista de tarefas (To-Do List) construída em React, utilizando várias bibliotecas e ferramentas como react-router-dom, phosphor-icons, styled-components, uuid, e iniciada com Vite. Ela permite a inserção, remoção, edição e pesquisa de tarefas.
 
+Para visualizar o deploy do projeto clique **[aqui](https://task-minder-xi.vercel.app/)**
+
 ![Task-Minder Screenshot](https://uploaddeimagens.com.br/images/004/637/477/full/Screenshot_2023-10-15_at_5.56.51%E2%80%AFPM.png?1697403531)
 
 ## Funcionalidades
